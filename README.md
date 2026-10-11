@@ -151,6 +151,31 @@ https://stream.url/playlist.m3u8|User-Agent=CustomAgent&Referer=https://example.
 
 ---
 
+## 📸 Screenshots
+
+### Start Screen
+![Start Screen](pictures/start.png)
+
+### Channel Grid - 3x3 Layout
+![Channel Grid](pictures/afteraddplaylist.png)
+
+### Import M3U Playlist
+![Import M3U](pictures/importm3u.png)
+
+### Xtream Codes Integration
+![Xtream Codes](pictures/xtreamsupport.png)
+
+### Quick Play Feature
+![Quick Play](pictures/quickplay.png)
+
+### Quick Play Configuration
+![Quick Play Fields](pictures/quickplayfield.png)
+
+### Player Settings
+![Player Settings](pictures/playersetting.png)
+
+---
+
 ## 📋 System Requirements
 
 - **OS:** Windows 10/11 (64-bit)
